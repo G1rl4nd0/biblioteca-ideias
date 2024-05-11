@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "aprendendo angular",
+      "autoria": "junior",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "conteudo": "aprendendo angular",
+      "autoria": "junior",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "conteudo": "aprendendo angular",
+      "autoria": "junior",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "conteudo": "azul",
+      "autoria": "junior",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "aprendendo a programar",
+      "autoria": "junior",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 6
+    },
+    {
+      "conteudo": "aprendendo angular",
+      "autoria": "junior",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    }
+  ]
+}
